@@ -39,7 +39,7 @@ In order to run the program Python 3.10 (or newer) should be installed along wit
 ## Usage
 
 The protocols have user defined inputs in the beginning of all python scripts that can be adjusted
-# User inputs
+#### User inputs
 1. `cfe_titration_curve.py`      - destination row in 384 well-plate
 2. `cfe_buffer_optimization.py`  - Mg-glutamte, K-glutamate and PEG-8000 stock- and final concentrations
 3. `DOE.py`                      - Mg-glutamte, K-glutamate and PEG-8000 final concentrations
